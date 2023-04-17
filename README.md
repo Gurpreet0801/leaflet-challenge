@@ -1,13 +1,13 @@
 # leaflet-challenge
 
 ## Map
- TileLayer loads without error
- Connects to geojson API using D3 without error
- Markers with size corresponding to earthquake magnitude
- A legend showing the depth and their corresponding color (10 points)
+1 TileLayer loads without error
+2 Connects to geojson API using D3 without error
+3 Markers with size corresponding to earthquake magnitude
+4 A legend showing the depth and their corresponding color 
 
 ## Data Points
-Data points scale with magnitude level 
-Data points colors change with depth level 
-Each point has a tooltip with the Magnitude, the location and depth
-All data points load in the correct locations 
+1 Data points scale with magnitude level 
+2 Data points colors change with depth level 
+3 Each point has a tooltip with the Magnitude, the location and depth
+4 All data points load in the correct locations 
